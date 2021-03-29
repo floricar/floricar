@@ -85,7 +85,7 @@ content:
             At Rosario Trading Board I've been working on three lines: on an image classification problem that we are working with deep learning models, on a integrated plan to facilitate the digital transformation indoor the company and on some Business Intelligence projects (developing reports for the end user).
       - layout: left
         title: Method Data Science
-        link: www.bcr.com.ar
+        link: www.methoddatascience.com
         # link_text: boringcompany.com
         sub_title: Community Data Scientist
         caption: November 2018 - March 2019
@@ -119,7 +119,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Austral University
+        title: Austral University - Rosario campus
         caption: August 2020 - December 2021
         sub_title: Master of Finance
         # quote: >
