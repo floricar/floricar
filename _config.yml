@@ -109,9 +109,9 @@ content:
         # link_text: boringcompany.com
         sub_title: 
         caption: November 2016 - November 2017
-        quote: 
-          "AIRES: Analisis Inteligente en Redes Sociales" |
-          Which means Social Media Intelligent Analysis
+        quote: |
+            "AIRES: Analisis Inteligente en Redes Sociales" 
+            Which means Social Media Intelligent Analysis
         description: | # this will include new lines to allow paragraphs
             Project AIRES was an entrepreneurial team working on Social Media data to exploit it with top edge data science techniques, theories and models. A product was developed with sentiment analysis, user clustering and impact prediction of new posts features. For some time, consulting like projects were done. My role was as a founder and as a member of the dev/technical team.
 
@@ -130,9 +130,9 @@ content:
         title: Universidad Tecnologica Nacional - Rosario campus
         caption: March 2013 - November 2018
         sub_title: Information System Engineering
-        quote: 
-          "UTN - Universidad Tecnologica Nacional" |
-          Which stands for National Technology University, the statal university from Argentina specialized on technology careers.
+        quote: |
+            "UTN: Universidad Tecnologica Nacional" 
+            Which stands for National Technology University, the statal university from Argentina specialized on technology careers.
         #   Austral University is one of the top three education institutions located on Argentina.
         description: | # this will include new lines to allow paragraphs
           I was lucky to be a student at the UTN, Rosario campus for learning software development, software architecture, technology management and much more. All these in an engineering grade.
