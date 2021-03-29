@@ -105,13 +105,12 @@ content:
             At Inteligencia Analitica I worked side by side with a customer from the bank industry. I was primarily asked to develop multiples static reports and dinamic dashboards with SAP BOE platform. I was also challenged to understand and analyze the user requirements and pass them to the back-end team.
       - layout: left
         title: AIRES Project
-        link: None
+        # link: None
         # link_text: boringcompany.com
         sub_title: 
         caption: November 2016 - November 2017
-        quote: >
-          "AIRES: Analisis Inteligente en Redes Sociales" 
-        |
+        quote: 
+          "AIRES: Analisis Inteligente en Redes Sociales" |
           Which means Social Media Intelligent Analysis
         description: | # this will include new lines to allow paragraphs
             Project AIRES was an entrepreneurial team working on Social Media data to exploit it with top edge data science techniques, theories and models. A product was developed with sentiment analysis, user clustering and impact prediction of new posts features. For some time, consulting like projects were done. My role was as a founder and as a member of the dev/technical team.
