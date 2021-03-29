@@ -94,27 +94,27 @@ content:
         description: | # this will include new lines to allow paragraphs
             At Method Data Science, I was lucky to found myself in a global community of professionals in which we were teamed up for solving different kind of projects. Me and the team "Newton" (we were called) worked on a kaggle challenge, a prediction on knee illnes and an association problem to target social media users.
       - layout: left
-      title: Inteligencia Analitica
-      link: www.inteligenciaanalitica.com
-      # link_text: boringcompany.com
-      sub_title: 
-      caption: November 2017 - November 2018
-      quote: >
-        Inteligencia Analitica is a end-to-end consultant company specialized on Business Intelligence challenges. From reporting and analytics to ETL processes development.
-      description: | # this will include new lines to allow paragraphs
-          At Inteligencia Analitica I worked side by side with a customer from the bank industry. I was primarily asked to develop multiples static reports and dinamic dashboards with SAP BOE platform. I was also challenged to understand and analyze the user requirements and pass them to the back-end team.
+        title: Inteligencia Analitica
+        link: www.inteligenciaanalitica.com
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: November 2017 - November 2018
+        quote: >
+          Inteligencia Analitica is a end-to-end consultant company specialized on Business Intelligence challenges. From reporting and analytics to ETL processes development.
+        description: | # this will include new lines to allow paragraphs
+            At Inteligencia Analitica I worked side by side with a customer from the bank industry. I was primarily asked to develop multiples static reports and dinamic dashboards with SAP BOE platform. I was also challenged to understand and analyze the user requirements and pass them to the back-end team.
       - layout: left
-      title: AIRES Project
-      link: None
-      # link_text: boringcompany.com
-      sub_title: 
-      caption: November 2016 - November 2017
-      quote: >
-        "AIRES: Analisis Inteligente en Redes Sociales" 
-      |
-        Which means Social Media Intelligent Analysis
-      description: | # this will include new lines to allow paragraphs
-          Project AIRES was an entrepreneurial team working on Social Media data to exploit it with top edge data science techniques, theories and models. A product was developed with sentiment analysis, user clustering and impact prediction of new posts features. For some time, consulting like projects were done. My role was as a founder and as a member of the dev/technical team.
+        title: AIRES Project
+        link: None
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: November 2016 - November 2017
+        quote: >
+          "AIRES: Analisis Inteligente en Redes Sociales" 
+        |
+          Which means Social Media Intelligent Analysis
+        description: | # this will include new lines to allow paragraphs
+            Project AIRES was an entrepreneurial team working on Social Media data to exploit it with top edge data science techniques, theories and models. A product was developed with sentiment analysis, user clustering and impact prediction of new posts features. For some time, consulting like projects were done. My role was as a founder and as a member of the dev/technical team.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
