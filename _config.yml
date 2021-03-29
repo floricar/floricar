@@ -131,9 +131,8 @@ content:
         title: Universidad Tecnologica Nacional - Rosario campus
         caption: March 2013 - November 2018
         sub_title: Information System Engineering
-        quote: >
-          UTN: Universidad Tecnologica Nacional
-        |
+        quote: 
+          "UTN - Universidad Tecnologica Nacional" |
           Which stands for National Technology University, the statal university from Argentina specialized on technology careers.
         #   Austral University is one of the top three education institutions located on Argentina.
         description: | # this will include new lines to allow paragraphs
