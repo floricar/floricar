@@ -8,6 +8,7 @@ version: 2
 # Personal info
 name: Carlos Flury
 title: Data Scientist
+subtitle: Curious human
 email: car.flury@gmail.com
 website: floricar.github.io
 
@@ -66,9 +67,9 @@ content:
               - as a data scientist analyzing, developing and deploying deep learning models for an image classification and segmentation problem. Aiming to create a webapp with an apified AI model as it major feature
               - as a BI developer generating Power BI reports for end users to consume as well as to find new business insights
       - layout: left
-        title: Rosario Trading Board
-        link: www.bcr.com.ar
-        link_text: www.bcr.com.ar
+        # title: Rosario Trading Board
+        # link: www.bcr.com.ar
+        # link_text: www.bcr.com.ar
         sub_title: Digital Transformation Lead
         caption: January 2020 - Present
         description: | # this will include new lines to allow paragraphs
@@ -77,15 +78,15 @@ content:
               - working on re-skilling the people at BCR and give them digital tools for daily usage
               - working on understanding the internal processes and proposing transformations on them aiming for efficiency
       - layout: left
-        title: Rosario Trading Board
-        link: www.bcr.com.ar
-        link_text: www.bcr.com.ar
+        # title: Rosario Trading Board
+        # link: www.bcr.com.ar
+        # link_text: www.bcr.com.ar
         sub_title: Professor
         caption: December 2019 - April 2021
         description: | # this will include new lines to allow paragraphs
             At Bolsa de Comercio de Rosario we have a large teaching department and I was happily challenged to give a series of Python courses. They were all basic and for non tech background people but still a beatufil experience.
             At the moment of writing this section, I have taught a total of three courses of 16 hours each. I was accompanied by @Rodrigo Baccaro: a colleague and friend
-      - layout: right
+      - layout: left
         title: Method Data Science
         link: www.methoddatascience.com
         link_text: www.methoddatascience.com
@@ -108,7 +109,7 @@ content:
             Inteligencia Analitica is a BI consultancy enterprise focused on providing services to bank and issurance companies. In my time working at it, I was able to:
               - developed some minor ETL processes with Microsoft Visual Studio Integration Services (SSIS) for a version migration
               - worked as a data analyst side-by-side to end users for generating reports and dashboard for a banking client. The tech stack used was SQL and SAP BOE ecosystem (Web Intelligence in particular)      
-      - layout: right
+      - layout: left
         title: Universidad Tecnologica Nacional - Research Department
         sub_title: Data Science and Big Data Researcher
         caption: November 2016 - November 2018
@@ -136,15 +137,15 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Austral University - Rosario Campus
         caption: August 2020 - December 2021
         sub_title: Master of Science in Finance
         description: | # this will include new lines to allow paragraphs
           At the Ms. in Finance I am glad to be learning about the financial area of knowledge. The curricula includes three main verticals:
-            1. Capital markets
-            2. Corporate finance
-            3. Investment projects
+            - Capital markets
+            - Corporate finance
+            - Investment projects
 
           One thing I find myself particulary interested in is valuation methods and how we humans, price objects and determine value. I am probably studying this for my thesis.
       - layout: right
@@ -160,7 +161,7 @@ content:
               - Some optional courses: data mining, engineering management, human resources management and java practice
 
           My final thesis was a software development project that analyze social media data (specifically on Twitter) and was related to AIRES job.
-      - layout: left
+      - layout: right
         title: Austral University - Buenos Aires Campus
         caption: August 2018 - December 2018
         sub_title: Diploma of Education, Applied Data Science
@@ -183,6 +184,7 @@ content:
         - Sustaintability
         - Equity and inclusion
         - Eduacation and jobs
+      
       These three points are challenged in projects with local impact. Happy to be part of this movement and community. 
 
 # Footer
