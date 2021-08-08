@@ -6,6 +6,6 @@ Looking forward to learn on my journey.
 
 ### Contact me
 
-[car.flury@gmail.com](mailto:car.flury@gmail.com)
+Email me: [car.flury@gmail.com](mailto:car.flury@gmail.com)
 
 [🐤 @charlesflury_](twitter.com/charlesflury_)
