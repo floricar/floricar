@@ -8,4 +8,4 @@ Looking forward to learn on my journey.
 
 Email me: [car.flury@gmail.com](mailto:car.flury@gmail.com)
 
-[🐤 @charlesflury_](twitter.com/charlesflury_)
+Twitter: [🐤 @charlesflury_](twitter.com/charlesflury_)
