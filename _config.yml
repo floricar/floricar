@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Carlos Flury
-title: Curious human first, data scientist after
+title: Curious human first, Data Scientist after
 email: car.flury@gmail.com
 website: floricar.github.io
 
@@ -37,7 +37,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Rosario Trading Board
+        title: Bolsa de Comercio de Rosario
         link: www.bcr.com.ar
         link_text: www.bcr.com.ar
         sub_title: Data Scientist
