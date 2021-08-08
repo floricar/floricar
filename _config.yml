@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: Carlos Flury
-title: Data Scientist
-subtitle: Curious human
+title: Curious human first, data scientist after
 email: car.flury@gmail.com
 website: floricar.github.io
 
@@ -23,7 +22,7 @@ linkedin_username: charlesflury
 # About Section
 about_title: About Me
 about_profile_image: images/pic_5_small.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | 
   Since I was a kid I always find myself wondering things and trying to understand the world around me: I am extremely curious. Years to come later, at the university I discovered data science which allowed me to satisfy my curiosity giving me the resources for analyze large amount of data and being able to learn from it.
   Learning new things is amazing and pairing this up with the ability to execute to have a great impact is my long-life desire and goal. I am and will always looking forward to it. |
   Tech stack I am familiar with
@@ -34,25 +33,6 @@ about_content: | # this will include new lines to allow paragraphs
     - Linux OS (Ubuntu specifically)
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -62,7 +42,7 @@ content:
         link_text: www.bcr.com.ar
         sub_title: Data Scientist
         caption: January 2019 - Present
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             Working on two major assignments:
               - as a data scientist analyzing, developing and deploying deep learning models for an image classification and segmentation problem. Aiming to create a webapp with an apified AI model as it major feature
               - as a BI developer generating Power BI reports for end users to consume as well as to find new business insights
@@ -72,7 +52,7 @@ content:
         # link_text: www.bcr.com.ar
         sub_title: Digital Transformation Lead
         caption: January 2020 - Present
-        description: | # this will include new lines to allow paragraphs
+        description: |
             Technology has became a subject important to all areas of knowledge inside an organization, and the pandemia has accelerated this. For this reason, at BCR we are aiming to work on the internal processes and the collaborators who execute them from a technology or digital perspective. We like to call this as the internal digital transformation.
             Key objectives:
               - working on re-skilling the people at BCR and give them digital tools for daily usage
@@ -83,7 +63,7 @@ content:
         # link_text: www.bcr.com.ar
         sub_title: Professor
         caption: December 2019 - April 2021
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             At Bolsa de Comercio de Rosario we have a large teaching department and I was happily challenged to give a series of Python courses. They were all basic and for non tech background people but still a beatufil experience.
             At the moment of writing this section, I have taught a total of three courses of 16 hours each. I was accompanied by @Rodrigo Baccaro: a colleague and friend
       - layout: left
@@ -92,7 +72,7 @@ content:
         link_text: www.methoddatascience.com
         sub_title: Community Data Scientist
         caption: November 2018 - March 2019
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             I was lucky to be part of Method global community, pairing with colleagues from all over the world and working remotely in several end-to-end data projects. I would like to mention two of these:
 
               - an association problem with social media data for Red Crown client (digital marketing agency), for developing a targeting feature which would find look-a-like users and potential Red Crown customers
@@ -105,7 +85,7 @@ content:
         link_text: www.inteligenciaanalitica.com
         sub_title: Business Intelligence Consultant
         caption: November 2017 - November 2018
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             Inteligencia Analitica is a BI consultancy enterprise focused on providing services to bank and issurance companies. In my time working at it, I was able to:
               - developed some minor ETL processes with Microsoft Visual Studio Integration Services (SSIS) for a version migration
               - worked as a data analyst side-by-side to end users for generating reports and dashboard for a banking client. The tech stack used was SQL and SAP BOE ecosystem (Web Intelligence in particular)      
@@ -113,7 +93,7 @@ content:
         title: Universidad Tecnologica Nacional - Research Department
         sub_title: Data Science and Big Data Researcher
         caption: November 2016 - November 2018
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             At Universidad Tecnologica Nacional - Regional Rosario, I was lucky to be part of a research team investigating through data science and big data areas.
 
             I would like to mention two major accomplishments:
@@ -125,7 +105,7 @@ content:
         title: AIRES - Analisis Inteligente en Redes Sociales
         sub_title: Data Mining Engineer and Founder
         caption: November 2016 - November 2017
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             I believe AIRES was an excellent startup for one of my first experiences in the industry. Me and two colleagues founded it with focus on giving social media influencers an analytical description of their digital presence.
             We were able to develop a web MVP with these major features:
               - a sentiment analysis dashboard plus general statistics about a hashtag published in Twitter
@@ -141,7 +121,7 @@ content:
         title: Austral University - Rosario Campus
         caption: August 2020 - December 2021
         sub_title: Master of Science in Finance
-        description: | # this will include new lines to allow paragraphs
+        description: |
           At the Ms. in Finance I am glad to be learning about the financial area of knowledge. The curricula includes three main verticals:
             - Capital markets
             - Corporate finance
@@ -152,7 +132,7 @@ content:
         title: Universidad Tecnologica Nacional - Rosario Campus
         caption: March 2013 - November 2018
         sub_title: BE, Computer Software Engineering
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           At UTN I was able to get my software engineering degree with a general grade of 7.92.
             The curricula includes these major areas of knowledge:
               - Math, statistics, calculus and physics
@@ -165,19 +145,19 @@ content:
         title: Austral University - Buenos Aires Campus
         caption: August 2018 - December 2018
         sub_title: Diploma of Education, Applied Data Science
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           At this post graduate course I had an overview of what data science means and how it could be applied into the industry. The principal areas of knowledges were: data analysis tools, data mining techniques, text mining techniques and a practical laboratory.
       - layout: right
         title: Austral University - Rosario Campus
         caption: August 2017 - December 2017
         sub_title: Diploma of Education, Business Intelligence
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           At this post graduate course I was able to learnt the core principles of Business Intelligence. The course curricula included: intelligent data analysis, data warehousing, data mining, balance scoreboard and support decision systems.
 
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       I am a true believer that the world receive each one of us and we ought to aim to leave it in a better position that we'd found it. For this reason I also like to spend some of my spare time in volunteering experiences.
 
       I collaborate in Global Shapers Community, in Rosario Hub as an active participant in projects of my interest and as the Impact Officer role which helps measure the impact of our labor. Global Shapers has three main verticals:
@@ -189,7 +169,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Special thanks to @sproogen on github for this resume template (https://github.com/sproogen/modern-resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
